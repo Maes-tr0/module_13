@@ -1,5 +1,8 @@
 package com.example.UserManagement;
 
+import com.example.UserManagement.user.Comment;
+import com.example.UserManagement.user.User;
+
 import java.util.List;
 
 public interface IUserService {

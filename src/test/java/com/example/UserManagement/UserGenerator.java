@@ -1,5 +1,10 @@
 package com.example.UserManagement;
 
+import com.example.UserManagement.user.Address;
+import com.example.UserManagement.user.Company;
+import com.example.UserManagement.user.Geo;
+import com.example.UserManagement.user.User;
+
 import java.util.*;
 
 public class UserGenerator {

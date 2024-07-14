@@ -5,6 +5,9 @@ import java.net.URI;
 import java.net.http.*;
 import java.util.*;
 
+import com.example.UserManagement.user.Comment;
+import com.example.UserManagement.user.Post;
+import com.example.UserManagement.user.User;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

@@ -1,10 +1,11 @@
-package com.example.UserManagement;
+package com.example.UserManagement.user;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Comment {
     @JsonProperty("postId")
     private int postID;
+    @JsonProperty("id")
     private int ID;
     private String name;
     private String email;
